@@ -2,7 +2,7 @@
 
 Unirock Cherry LPS is a clean-DI, physically modelled dual-humbucker electric-guitar instrument for Windows VST3 and Standalone.
 
-![Unirock Cherry LPS interface](imgs/interface_screenshot.png)
+![Unirock Cherry LPS interface](interface_screenshot.png)
 
 ## Installation
 
